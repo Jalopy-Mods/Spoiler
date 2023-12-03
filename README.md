@@ -9,3 +9,7 @@ This mod adds a spoiler to the Laika! It attaches to the trunk, and can be bough
 * **This requires that the `Enable JaDownloader` setting in `Modloader Options/Preferences` in-game is set to `Yes`**
 * Open this link in a browser:
 * `jaloader://install/jalopy-mods/Spoiler`
+
+# Images
+![image](https://github.com/Jalopy-Mods/Spoiler/assets/101940826/75369e02-78f0-410f-b247-5434d86ebe58)
+![image](https://github.com/Jalopy-Mods/Spoiler/assets/101940826/b316f2b8-ad60-4cee-948f-8a32b1ffc895)
