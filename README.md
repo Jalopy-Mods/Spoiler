@@ -1,6 +1,7 @@
 # Spoiler
 
 [![](https://img.shields.io/github/downloads/Jalopy-Mods/Spoiler/total)](#)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A8OGPIQ)
 
 This mod adds a spoiler to the Laika! It attaches to the trunk, and can be bought in the Laika Dealership.
 
